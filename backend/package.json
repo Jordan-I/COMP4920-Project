@@ -15,7 +15,7 @@
     "cors": "^2.8.5",
     "debug": "^4.1.1",
     "eslint": "^6.5.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-session": "^1.16.2",
     "finalhandler": "^1.1.2",
     "is-empty": "^1.2.0",
